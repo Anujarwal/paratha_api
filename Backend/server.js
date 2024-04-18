@@ -5,6 +5,10 @@ const app = express();
 
 const PORT = process.env.PORT || 5050;
 
+app.get("/api" , (req , res) => {
+    res.send("paratha express")
+})
+
 app.get("/paratha", (req, res) => {
   res.json([
     {
