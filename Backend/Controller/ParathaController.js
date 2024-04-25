@@ -48,7 +48,7 @@ const getParatha = (req, res) => {
     {
       id: "6",
       img: "https://b.zmtcdn.com/data/dish_photos/f24/0d6673fdece45efd2a47b556f17d2f24.jpg?fit=around|130:130&crop=130:130;*,*",
-      name: "Paneer Paratha",
+      name: "Methi Paratha",
       price: 100,
       description: "Extra Sauce, Yogurt, Cheese",
       qty: 1,
@@ -57,7 +57,7 @@ const getParatha = (req, res) => {
     {
       id: "7",
       img: "https://b.zmtcdn.com/data/dish_photos/f24/0d6673fdece45efd2a47b556f17d2f24.jpg?fit=around|130:130&crop=130:130;*,*",
-      name: "Paneer Paratha",
+      name: "Gobi Paratha",
       price: 100,
       description: "Extra Sauce, Yogurt, Cheese",
       qty: 1,
@@ -66,7 +66,7 @@ const getParatha = (req, res) => {
     {
       id: "8",
       img: "https://b.zmtcdn.com/data/dish_photos/f24/0d6673fdece45efd2a47b556f17d2f24.jpg?fit=around|130:130&crop=130:130;*,*",
-      name: "Paneer Paratha",
+      name: "Sev Paratha",
       price: 100,
       description: "Extra Sauce, Yogurt, Cheese",
       qty: 1,
